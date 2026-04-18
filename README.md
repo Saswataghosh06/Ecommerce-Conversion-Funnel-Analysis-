@@ -119,13 +119,10 @@ The analysis follows a structured, layered methodology:
 
 ## Funnel Performance
 
-![Overall Funnel Conversion Rates](<img width="2970" height="1768" alt="Image" src="https://github.com/user-attachments/assets/c8ec41e8-69d7-491e-ac23-c4b3d0398665" />)
+![Overall Funnel Conversion Rates] (<img width="2970" height="1768" alt="Image" src="https://github.com/user-attachments/assets/a4844afb-d11b-4957-873a-6bf83e0834e4" />)
 
-![Comprehensive Funnel Dashboard](<img width="919" height="800" alt="Image" src="https://github.com/user-attachments/assets/20bf2ea6-3b56-4780-87d1-3ea465058dc8" />)
-(<img width="1600" height="640" alt="Image" src="https://github.com/user-attachments/assets/9f643499-7876-4ef4-a896-851f26fd295d" />)
-(<img width="4470" height="2967" alt="Image" src="https://github.com/user-attachments/assets/998c8319-9039-4212-a9e4-03b907b27830" />)
-(<img width="4461" height="2968" alt="Image" src="https://github.com/user-attachments/assets/40fd4c1a-c8ca-48df-a401-8b174f345fa5" />)
-(<img width="3570" height="1768" alt="Image" src="https://github.com/user-attachments/assets/a7cbdde2-92a8-4cd3-b44e-b4195744be13" />)
+![Comprehensive Funnel Dashboard](<img width="919" height="800" alt="Image" src="https://github.com/user-attachments/assets/72a4e1df-d967-4ce3-8b85-2af7184bfc4f" />)
+
 | Funnel Stage | Sessions In | Sessions Out | Conversion Rate | Drop-Off Rate |
 |---|---|---|---|---|
 | Browse → Add to Cart | 10,000 | 7,059 | 70.59% | 29.41% |
@@ -142,7 +139,8 @@ The analysis follows a structured, layered methodology:
 
 ## Channel Analysis
 
-![Channel Performance](https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_REPO]/main/visuals/channel_performance.png)
+![Channel Performance](<img width="4470" height="1399" alt="Image" src="https://github.com/user-attachments/assets/41089bac-5e0a-462d-a8d1-bed980202c87" />)
+(<img width="4470" height="1586" alt="Image" src="https://github.com/user-attachments/assets/df60dd6e-81ff-4c19-886c-cb9ce5932646" />)
 
 | Channel | Total Sessions | Conversion Rate | Total Revenue |
 |---|---|---|---|
@@ -159,7 +157,7 @@ Organic leads narrowly, confirming that intent-driven traffic performs best. For
 
 ## Regional Performance
 
-![Regional Funnel Progression](https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_REPO]/main/visuals/regional_analysis.png)
+![Regional Funnel Progression](<img width="3570" height="1768" alt="Image" src="https://github.com/user-attachments/assets/81fadb70-6957-491d-bd41-36b527010f91" />)
 
 | Region | Sessions | Conversion Rate | Total Revenue | AOV |
 |---|---|---|---|---|
@@ -176,7 +174,7 @@ The South region's higher AOV ($1,103) alongside a higher conversion rate sugges
 
 ## Time-Based Behavior
 
-![Daily and Hourly Analysis](https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_REPO]/main/visuals/time_analysis.png)
+![Daily and Hourly Analysis](<img width="4461" height="2968" alt="Image" src="https://github.com/user-attachments/assets/7b5b9565-18ab-4611-be88-bcaa2877ed4d" />)
 
 Session volume is consistent across October, ranging from 270 to 370 sessions per day. Conversion rate fluctuates between 6.27% and 13.54%, a 2x variance that points to external triggers (promotions, events) more than organic patterns.
 
