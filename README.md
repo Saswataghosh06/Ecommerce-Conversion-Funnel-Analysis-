@@ -119,12 +119,11 @@ The analysis follows a structured, layered methodology:
 
 ## Funnel Performance
 
-![Overall Funnel Conversion Rates]
 <img width="2970" height="1768" alt="Image" src="https://github.com/user-attachments/assets/a4844afb-d11b-4957-873a-6bf83e0834e4" />
 
-
-![Comprehensive Funnel Dashboard]
-<img width="919" height="800" alt="Image" src="https://github.com/user-attachments/assets/72a4e1df-d967-4ce3-8b85-2af7184bfc4f" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/72a4e1df-d967-4ce3-8b85-2af7184bfc4f" width="700" alt="Funnel Dashboard">
+</div>
 
 | Funnel Stage | Sessions In | Sessions Out | Conversion Rate | Drop-Off Rate |
 |---|---|---|---|---|
