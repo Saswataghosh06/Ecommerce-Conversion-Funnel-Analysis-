@@ -120,9 +120,9 @@ The analysis follows a structured, layered methodology:
 ## Funnel Performance
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a4844afb-d11b-4957-873a-6bf83e0834e4" width="900" alt="Funnel Rates">
+  <img src="https://github.com/user-attachments/assets/a4844afb-d11b-4957-873a-6bf83e0834e4" width="800" alt="Funnel Rates">
   <br>
-  <img src="https://github.com/user-attachments/assets/72a4e1df-d967-4ce3-8b85-2af7184bfc4f" width="900" alt="Funnel Dashboard">
+  <img src="https://github.com/user-attachments/assets/72a4e1df-d967-4ce3-8b85-2af7184bfc4f" width="800" alt="Funnel Dashboard">
 </div>
 
 | Funnel Stage | Sessions In | Sessions Out | Conversion Rate | Drop-Off Rate |
@@ -141,9 +141,11 @@ The analysis follows a structured, layered methodology:
 
 ## Channel Analysis
 
-![Channel Performance]
-<img width="4470" height="1399" alt="Image" src="https://github.com/user-attachments/assets/41089bac-5e0a-462d-a8d1-bed980202c87" />
-<img width="4470" height="1586" alt="Image" src="https://github.com/user-attachments/assets/df60dd6e-81ff-4c19-886c-cb9ce5932646" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/41089bac-5e0a-462d-a8d1-bed980202c87" width="800" alt="Channel Performance 1">
+  <br>
+  <img src="https://github.com/user-attachments/assets/df60dd6e-81ff-4c19-886c-cb9ce5932646"  width="4470" height="1586" alt="Channel Performance 2">
+</div>
 
 | Channel | Total Sessions | Conversion Rate | Total Revenue |
 |---|---|---|---|
@@ -160,8 +162,9 @@ Organic leads narrowly, confirming that intent-driven traffic performs best. For
 
 ## Regional Performance
 
-![Regional Funnel Progression]
-<img width="3570" height="1768" alt="Image" src="https://github.com/user-attachments/assets/81fadb70-6957-491d-bd41-36b527010f91" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/81fadb70-6957-491d-bd41-36b527010f91" width="800" alt="Regional Performace">
+</div>
 
 | Region | Sessions | Conversion Rate | Total Revenue | AOV |
 |---|---|---|---|---|
@@ -178,8 +181,9 @@ The South region's higher AOV ($1,103) alongside a higher conversion rate sugges
 
 ## Time-Based Behavior
 
-![Daily and Hourly Analysis]
-<img width="4461" height="2968" alt="Image" src="https://github.com/user-attachments/assets/7b5b9565-18ab-4611-be88-bcaa2877ed4d" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7b5b9565-18ab-4611-be88-bcaa2877ed4d" width="800" alt="Time-Based Behaviour">
+</div>
 
 Session volume is consistent across October, ranging from 270 to 370 sessions per day. Conversion rate fluctuates between 6.27% and 13.54%, a 2x variance that points to external triggers (promotions, events) more than organic patterns.
 
