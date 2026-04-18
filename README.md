@@ -119,10 +119,13 @@ The analysis follows a structured, layered methodology:
 
 ## Funnel Performance
 
-![Overall Funnel Conversion Rates](https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_REPO]/main/visuals/funnel_conversion_rates.png)
+![Overall Funnel Conversion Rates](<img width="2970" height="1768" alt="Image" src="https://github.com/user-attachments/assets/c8ec41e8-69d7-491e-ac23-c4b3d0398665" />)
 
-![Comprehensive Funnel Dashboard](https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_REPO]/main/visuals/funnel_dashboard.png)
-
+![Comprehensive Funnel Dashboard](<img width="919" height="800" alt="Image" src="https://github.com/user-attachments/assets/20bf2ea6-3b56-4780-87d1-3ea465058dc8" />)
+(<img width="1600" height="640" alt="Image" src="https://github.com/user-attachments/assets/9f643499-7876-4ef4-a896-851f26fd295d" />)
+(<img width="4470" height="2967" alt="Image" src="https://github.com/user-attachments/assets/998c8319-9039-4212-a9e4-03b907b27830" />)
+(<img width="4461" height="2968" alt="Image" src="https://github.com/user-attachments/assets/40fd4c1a-c8ca-48df-a401-8b174f345fa5" />)
+(<img width="3570" height="1768" alt="Image" src="https://github.com/user-attachments/assets/a7cbdde2-92a8-4cd3-b44e-b4195744be13" />)
 | Funnel Stage | Sessions In | Sessions Out | Conversion Rate | Drop-Off Rate |
 |---|---|---|---|---|
 | Browse → Add to Cart | 10,000 | 7,059 | 70.59% | 29.41% |
