@@ -119,9 +119,9 @@ The analysis follows a structured, layered methodology:
 
 ## Funnel Performance
 
-<img width="2970" height="1768" alt="Image" src="https://github.com/user-attachments/assets/a4844afb-d11b-4957-873a-6bf83e0834e4" />
-
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/a4844afb-d11b-4957-873a-6bf83e0834e4" width="800" alt="Funnel Rates">
+  <br>
   <img src="https://github.com/user-attachments/assets/72a4e1df-d967-4ce3-8b85-2af7184bfc4f" width="700" alt="Funnel Dashboard">
 </div>
 
