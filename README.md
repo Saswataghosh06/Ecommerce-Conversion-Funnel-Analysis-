@@ -142,9 +142,7 @@ The analysis follows a structured, layered methodology:
 ## Channel Analysis
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/41089bac-5e0a-462d-a8d1-bed980202c87" width="800" alt="Channel Performance 1">
-  <br>
-  <img src="https://github.com/user-attachments/assets/df60dd6e-81ff-4c19-886c-cb9ce5932646"  width="4470" height="1586" alt="Channel Performance 2">
+  <img src="https://github.com/user-attachments/assets/9199b00e-f080-4409-9330-6b6585edeccd"  width="4470" height="1586" alt="Channel Performance">
 </div>
 
 | Channel | Total Sessions | Conversion Rate | Total Revenue |
